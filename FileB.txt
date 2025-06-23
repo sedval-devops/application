@@ -1,1 +1,2 @@
 This is FileB.txt
+Let's make a change.
